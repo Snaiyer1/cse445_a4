@@ -2,7 +2,7 @@
 
 <NationalPark
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="https://snaiyer1.github.io/cse445_a4/NationalParks.xsd">
+  xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/snaiyer1/cse445_a4/main/NationalParks.xsd">
 
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
